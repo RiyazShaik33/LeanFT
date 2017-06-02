@@ -1,0 +1,87 @@
+<Results>
+    <GeneralInfo>
+        <Name/>
+        <RunStartTime>2017-06-02 13:45:31</RunStartTime>
+        <Timezone>South Africa Standard Time</Timezone>
+        <OrchestrationToolName>JUnit</OrchestrationToolName>
+        <OrchestrationToolVersion/>
+        <ReportTitle>LeanFT Report</ReportTitle>
+    </GeneralInfo>
+    <ReportNode type="Run">
+        <Data>
+            <Name>Run Results</Name>
+            <Description><![CDATA[ ]]></Description>
+            <StartTime>2017-06-02 13:45:31</StartTime>
+            <Result>Passed</Result>
+            <Links/>
+            <Duration>1</Duration>
+            <Extension>
+                <Any>
+                    <IconKey>Run</IconKey>
+                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                </Any>
+            </Extension>
+            <Environment>
+                <OSInfo><![CDATA[Microsoft Windows NT 6.1.7601 Service Pack 1]]></OSInfo>
+                <HostName>00620JNBITD556L</HostName>
+                <NumberOfCores>4</NumberOfCores>
+                <CpuInfo/>
+                <TotalMemory>3498</TotalMemory>
+                <Locale><![CDATA[en-ZA]]></Locale>
+                <Timezone>South Africa Standard Time</Timezone>
+                <User>c00620202</User>
+            </Environment>
+            <TestedApplication/>
+            <ToolName>LeanFT</ToolName>
+            <ToolVersion><![CDATA[14.0]]></ToolVersion>
+        </Data>
+        <ReportNode type="Package">
+            <Data>
+                <Name><![CDATA[LeanFT_BDD]]></Name>
+                <Description><![CDATA[Version: N/A]]></Description>
+                <StartTime>2017-06-02 13:45:31</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration>1</Duration>
+                <Extension>
+                    <Any>
+                        <IconKey>Package</IconKey>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                    </Any>
+                </Extension>
+            </Data>
+            <ReportNode type="Class">
+                <Data>
+                    <Name><![CDATA[LeanFT_BDD.LeanFtTest]]></Name>
+                    <Description/>
+                    <StartTime>2017-06-02 13:45:31</StartTime>
+                    <Result>Passed</Result>
+                    <Links/>
+                    <Duration>1</Duration>
+                    <Extension>
+                        <Any>
+                            <IconKey>Class</IconKey>
+                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                        </Any>
+                    </Extension>
+                </Data>
+                <ReportNode type="Test">
+                    <Data>
+                        <Name>test</Name>
+                        <Description/>
+                        <StartTime>2017-06-02 13:45:31</StartTime>
+                        <Result>Passed</Result>
+                        <Links/>
+                        <Duration>0</Duration>
+                        <Extension>
+                            <Any>
+                                <IconKey>Test</IconKey>
+                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                            </Any>
+                        </Extension>
+                    </Data>
+                </ReportNode>
+            </ReportNode>
+        </ReportNode>
+    </ReportNode>
+</Results>
